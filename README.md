@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="https://github.com/ketace06/my-portfolio">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ketace06&repo=my-portfolio&theme=react&border_color=61dafb&border_radius=10">
+    My portfolio
   </a>
 </div>
 
