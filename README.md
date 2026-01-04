@@ -18,15 +18,6 @@
 
 ---
 
-## 🔥 Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ketace06&theme=react&border=61dafb"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ketace06&show_icons=true&theme=react&border_color=61dafb"/>
-</p>
-
----
-
 ## 🧰 Tools & Tech Stack
 
 <p align="center">
